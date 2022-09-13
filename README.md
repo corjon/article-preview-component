@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FrontEnd Mentor](https://www.frontendmentor.io/solutions/responsive-article-preview-w-flexbox-semantic-html-BuGwtMVR4f)
+- Live Site URL: [GitHub Pages](https://corjon.github.io/article-preview-component/)
 
 ## My process
 
